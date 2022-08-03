@@ -5,6 +5,9 @@ public class DAC {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hie This first Eclipse Project");
+		System.out.println("For the Demo Purpose");
+		System.out.println("Second");
+		
 	}
 
 }
